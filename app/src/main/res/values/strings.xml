@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TravelConsuption</string>
+    <string name="text_Header">Aplicativo para calcular o consumo de viagens</string>
+    <string name="edit_Distance">Distancia</string>
+    <string name="text_Total_Km">Total em Quilometros</string>
+    <string name="edit_Price">Preço</string>
+    <string name="text_Price_Per_Liter">Preço por Litro</string>
+    <string name="edit_Autonomy">Autonomia</string>
+    <string name="text_Autonomy">Quilometros por Litro</string>
+    <string name="text_Ans">SEU GASTO TOTAL SERA DE:</string>
+    <string name="text_Label_Resul">R$ 0</string>
+    <string name="button_Calculate">Calcular</string>
+    <string name="validation_fill_all_fields">Preencha todos os campos</string>
+    <string name="no_zero_div">Nao Existe Divisao Por Zero</string>
+</resources>
